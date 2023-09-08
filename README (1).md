@@ -1,2 +1,0 @@
-# StableDiffusionExperimenting
-StableDiffusion experimentations
