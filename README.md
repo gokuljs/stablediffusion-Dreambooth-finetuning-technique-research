@@ -1,6 +1,6 @@
 # StableDiffusion Experimentations
 
-This repository contains experimentations and findings related to the StableDiffusion process.
+This repository contains experiments and findings related to the fine-tuning of the stable diffusion process using the DreamBooth technique.
 
 ## Resources & References
 
